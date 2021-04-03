@@ -1,7 +1,7 @@
 - 👋 Howdy, I’m @hellohowdy!
 - 👀 I’m interested in hello, howdy and fairs.
 - 🌱 I’m currently learning how to treat servers as cattle.
-- 💞️ I’m looking to collaborate on bringing comfort and joy to the world.
+- 💞️ I’m looking to collaborate on a big drive.
 - 📫 Reach me with a big Yeehaw!
 
 <!---
